@@ -27,3 +27,12 @@ h2  {
     font-size: 32px;
     color: #fff;
 }
+
+.description    {
+    color: #fff;
+}
+
+footer  {
+    text-align: end;
+    color: gray;
+}
